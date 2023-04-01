@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FCE66F45-B41D-4936-B702-52D681935C7B}|Default">
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_32" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyMauiApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MyMauiApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MyMauiApp/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyMauiApp" expanded="True">
+            <Node name="MyMauiApp" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyMauiApp PreferredExecutionTarget="Android.Pixel_4_API_32" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
